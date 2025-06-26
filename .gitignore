@@ -1,0 +1,17 @@
+# Archivos generados por compilación
+bin/
+obj/
+
+# Configuraciones del entorno
+.vscode/
+*.user
+*.suo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak

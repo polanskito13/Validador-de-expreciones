@@ -1,0 +1,14 @@
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\bin\Debug\net9.0\ValidadorExpresiones.exe
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\bin\Debug\net9.0\ValidadorExpresiones.deps.json
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\bin\Debug\net9.0\ValidadorExpresiones.runtimeconfig.json
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\bin\Debug\net9.0\ValidadorExpresiones.dll
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\bin\Debug\net9.0\ValidadorExpresiones.pdb
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\obj\Debug\net9.0\ValidadorExpresiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\obj\Debug\net9.0\ValidadorExpresiones.AssemblyInfoInputs.cache
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\obj\Debug\net9.0\ValidadorExpresiones.AssemblyInfo.cs
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\obj\Debug\net9.0\ValidadorExpresiones.csproj.CoreCompileInputs.cache
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\obj\Debug\net9.0\ValidadorExpresiones.dll
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\obj\Debug\net9.0\refint\ValidadorExpresiones.dll
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\obj\Debug\net9.0\ValidadorExpresiones.pdb
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\obj\Debug\net9.0\ValidadorExpresiones.genruntimeconfig.cache
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\validador-expresiones\ValidadorExpresiones\obj\Debug\net9.0\ref\ValidadorExpresiones.dll
